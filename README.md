@@ -1,6 +1,6 @@
 # First PR Practice
 
-This is a small practce repository for trying out the GitHub pull request workflow:
+This is a small practice repository for trying out the GitHub pull request workflow:
 clone, branch, commit, push, and open a PR.
 
 ## What's here
